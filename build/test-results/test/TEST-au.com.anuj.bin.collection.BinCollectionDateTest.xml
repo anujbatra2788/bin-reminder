@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="au.com.anuj.bin.collection.BinCollectionDateTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-02-13T07:22:03" hostname="05HW012013" time="1.915">
+  <properties/>
+  <testcase name="shouldReturnValidNextBinDateWithCurrentDateHavingDayAfterCollectionDay()" classname="au.com.anuj.bin.collection.BinCollectionDateTest" time="1.7"/>
+  <testcase name="shouldReturnValidNextBinDateWhenStartDateIsBeforeCurrentDateNotMatchingDayOfWeek()" classname="au.com.anuj.bin.collection.BinCollectionDateTest" time="0.008"/>
+  <testcase name="shouldReturnValidNextBinDateWhenStartDateIsInFuture()" classname="au.com.anuj.bin.collection.BinCollectionDateTest" time="0.003"/>
+  <testcase name="shouldReturnValidNextBinDateWithCurrentDateHavingDayBeforeCollectionDay()" classname="au.com.anuj.bin.collection.BinCollectionDateTest" time="0.005"/>
+  <testcase name="shouldReturnValidNextBinDateWhenStartDateIsBeforeCurrentDateNotMatchingDayOfWeekVeryFarDate()" classname="au.com.anuj.bin.collection.BinCollectionDateTest" time="0.18"/>
+  <testcase name="shouldReturnValidNextBinDateWhenStartDateIsEqualToCurrentDate()" classname="au.com.anuj.bin.collection.BinCollectionDateTest" time="0.004"/>
+  <testcase name="shouldReturnValidNextBinDateWhenStartDateIsBeforeCurrentDateMatchingDayOfWeek()" classname="au.com.anuj.bin.collection.BinCollectionDateTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

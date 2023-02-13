@@ -1,0 +1,24 @@
+{
+  "bins": [
+    {
+      "colour": "red",
+      "day": "TUESDAY",
+      "startDate": "13-02-2023",
+      "frequency": 7
+    },
+    {
+      "colour": "green",
+      "colourCode": "",
+      "day": "TUESDAY",
+      "startDate": "20-02-2023",
+      "frequency": 14
+    },
+    {
+      "colour": "yellow",
+      "colourCode": "",
+      "day": "TUESDAY",
+      "startDate": "13-02-2023",
+      "frequency": 14
+    }
+  ]
+}

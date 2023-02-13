@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="au.com.anuj.bin.collection.BinCollectionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-13T07:22:03" hostname="05HW012013" time="0.039">
+  <properties/>
+  <testcase name="getBinsDatesAndAttributes()" classname="au.com.anuj.bin.collection.BinCollectionTest" time="0.039"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

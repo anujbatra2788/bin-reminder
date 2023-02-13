@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="au.com.anuj.bin.config.ConfigTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-13T07:22:05" hostname="05HW012013" time="0.011">
+  <properties/>
+  <testcase name="shouldReadConfig()" classname="au.com.anuj.bin.config.ConfigTests" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
